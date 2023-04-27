@@ -13,11 +13,7 @@ I shall analyze and optimize marketing channels, measure and test website conver
 
 Use SQL to:
 
-• Access and explore the Maven Fuzzy Factory database
-
-• Become the data expert for the company, and the go to person for mission critical analyses
-
-• Analyze and optimize the business’ marketing channels, website, and product portfolio
-
-
-​ Data has been provided and we are going to run SQL queries to find more about data and make a conclusion.
+    * Access and explore the Maven Fuzzy Factory database
+    * Become the data expert for the company, and the go to person for mission critical analyses
+    * Analyze and optimize the business’ marketing channels, website, and product portfolio
+    * Data has been provided and we are going to run SQL queries to find more about data and make a conclusion.
